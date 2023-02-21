@@ -17,6 +17,9 @@
     "@nuxtjs/axios": "^5.3.6",
     "nuxt": "^2.0.0"
   },
+  "engines": {
+    "node": "16.18.1"
+  },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
     "@nuxtjs/eslint-module": "^0.0.1",
